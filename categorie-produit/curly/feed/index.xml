@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Curly</title>
+	<atom:link href="http://localhost/wordpress/categorie-produit/curly/feed/?simply_static_page=2379" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sun, 21 Apr 2024 08:49:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>Caramel Dream</title>
+		<link>/produit/caramel-dream/</link>
+					<comments>/produit/caramel-dream/#respond</comments>
+		
+		<dc:creator><![CDATA[nzodjoValere]]></dc:creator>
+		<pubDate>Sun, 21 Apr 2024 08:43:55 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=165</guid>
+
+					<description><![CDATA[Introducing our Caramel Dream wig, a luxurious blend of style and comfort. Crafted with premium synthetic fibers, this wig features a rich caramel hue that adds warmth to any look. Advantages: 1. Versatile Styling: The Caramel Dream wig offers versatile styling options, allowing you to create various looks from sleek and sophisticated to voluminous and [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Introducing our Caramel Dream wig, a luxurious blend of style and comfort. Crafted with premium synthetic fibers, this wig features a rich caramel hue that adds warmth to any look.</p>
+<p>Advantages:<br />
+1. Versatile Styling: The Caramel Dream wig offers versatile styling options, allowing you to create various looks from sleek and sophisticated to voluminous and playful.<br />
+2. Natural Appearance: With a seamless lace front, this wig provides a natural-looking hairline, ensuring a flawless finish every time.</p>
+<p>Embrace effortless elegance and timeless charm with the Caramel Dream wig, your go-to accessory for chic and glamorous hairstyles.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/produit/caramel-dream/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">165</post-id>	</item>
+		<item>
+		<title>Ivory Whisper</title>
+		<link>/produit/ivory-whisper/</link>
+					<comments>/produit/ivory-whisper/#respond</comments>
+		
+		<dc:creator><![CDATA[nzodjoValere]]></dc:creator>
+		<pubDate>Sun, 21 Apr 2024 08:41:32 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=164</guid>
+
+					<description><![CDATA[Introducing our Ivory Whisper wig, a chic statement piece crafted with premium synthetic fibers in a soft ivory hue. Its delicate lace front seamlessly blends for a natural look. Versatile styling options suit any occasion. Lightweight and adjustable for all-day comfort. Enjoy effortless elegance and adaptability with the Ivory Whisper wig.]]></description>
+										<content:encoded><![CDATA[<p>Introducing our Ivory Whisper wig, a chic statement piece crafted with premium synthetic fibers in a soft ivory hue. Its delicate lace front seamlessly blends for a natural look. Versatile styling options suit any occasion. Lightweight and adjustable for all-day comfort. Enjoy effortless elegance and adaptability with the Ivory Whisper wig.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/produit/ivory-whisper/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">164</post-id>	</item>
+		<item>
+		<title>Golden Cascade</title>
+		<link>/produit/golden-cascade/</link>
+					<comments>/produit/golden-cascade/#respond</comments>
+		
+		<dc:creator><![CDATA[nzodjoValere]]></dc:creator>
+		<pubDate>Sun, 21 Apr 2024 08:36:37 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=162</guid>
+
+					<description><![CDATA[Introducing our Golden Cascade wig, a radiant masterpiece designed to illuminate your style with timeless beauty. Crafted with premium synthetic fibers, its captivating golden hue exudes warmth and sophistication. Featuring cascading layers of luscious waves, this wig offers natural volume and glamorous versatility. Lightweight and breathable, with an adjustable lace front for a flawless finish. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Introducing our Golden Cascade wig, a radiant masterpiece designed to illuminate your style with timeless beauty. Crafted with premium synthetic fibers, its captivating golden hue exudes warmth and sophistication. Featuring cascading layers of luscious waves, this wig offers natural volume and glamorous versatility. Lightweight and breathable, with an adjustable lace front for a flawless finish. Embrace golden allure effortlessly with the Golden Cascade wig.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/produit/golden-cascade/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">162</post-id>	</item>
+	</channel>
+</rss>
